@@ -8,6 +8,7 @@ int speed;
 int damage;
 int armor;
 int healthPoin;
+int skin;
 
 void run(){
     System.out.println(name +" is running...");
